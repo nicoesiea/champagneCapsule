@@ -1,7 +1,7 @@
 champagneCapsule
 ================
 
-Identifier vos capsules de champagne automatiquement.
+Identifier vos capsules de champagne automatiquement.  
 Il suffit de prendre en photo votre capsule pour que le logiciel de reconnaissance l'identifie et affiche ses informations instantanément.
 
 
