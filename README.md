@@ -8,5 +8,5 @@ Il suffit de prendre en photo votre capsule pour que le logiciel de reconnaissan
 Utilisation
 --------------------
 1-Lancer l'application  
-2-Prendre en photo votre capsule (de dessus)  
-3-Découvrir les information relatif à votre capsule (nom, variété, serie, cote...)  
+2-Prendre en photo votre capsule (du dessus)  
+3-Découvrir les informations relatives à votre capsule (nom, variété, série, cote...)  
