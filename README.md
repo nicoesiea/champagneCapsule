@@ -1,3 +1,8 @@
+IMPORTANT
+================
+La fonction photo de Google Image a rendu ce service obsolette.
+Les informations retournées dans 99% des cas sont correcte. Il n'est plus necessaire de développer cet application.
+
 champagneCapsule
 ================
 
